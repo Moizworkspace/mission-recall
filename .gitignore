@@ -1,0 +1,15 @@
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Content/Developers/
+/.idea/
+/.vs/
+*.code-workspace
+*.sln
+*.suo
+*.user
+*.VC.db
+.env
+.env.*

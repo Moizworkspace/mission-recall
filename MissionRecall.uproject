@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "MISSION RECALL / made by moiz",
+  "Plugins": [
+    {
+      "Name": "ProceduralMeshComponent",
+      "Enabled": true
+    }
+  ],
+  "Modules": [
+    {
+      "Name": "MissionRecall",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
